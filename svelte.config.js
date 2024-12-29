@@ -1,5 +1,5 @@
 import adapter from "@sveltejs/adapter-vercel";
-import { vitePreprocess } from "@sveltejs/kit/vite";
+import { sveltePreprocess } from "svelte-preprocess";
 
 const config = {
   kit: {
@@ -8,7 +8,7 @@ const config = {
       $components: "src/components",
     },
   },
-  preprocess: vitePreprocess(),
+  preprocess: sveltePreprocess(), // Use sveltePreprocess here
 };
 
 export default config;
