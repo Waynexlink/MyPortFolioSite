@@ -1,6 +1,6 @@
-# sv
+# My PortFolio Site
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+tried building a portfolio site on svelte
 
 ## Creating a project
 
