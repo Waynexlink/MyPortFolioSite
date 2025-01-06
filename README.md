@@ -2,7 +2,7 @@
 
 tried building a portfolio site on svelte
 
-## Creating a project
+## Making a project
 
 If you're seeing this, you've probably already done this step. Congrats!
 
